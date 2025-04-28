@@ -45,10 +45,6 @@ This project is a comprehensive data analysis of movie datasets using Python and
 
 4. Run the cells and explore the analysis.
 
-## 📊 Sample Visualizations
-
-*(You can add screenshots of your graphs here after uploading.)*
-
 ## 📝 License
 
 This project is open source and free to use.
